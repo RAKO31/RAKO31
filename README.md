@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HTML,CSS<br>🌱 I’m currently learning JAVASCRIPT
+🔭 I’m currently working on Html,Css,javascript<br>🌱 I’m currently learning ReactJs,vim
 
 
 # 💻 Tech Stack:
